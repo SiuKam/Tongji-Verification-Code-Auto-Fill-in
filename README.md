@@ -1,3 +1,9 @@
+### Update
+2021.05.25: Archived due to change of verification method.
+
+### 更新
+2021.05.25: 由于验证形式变更，该脚本不再提供使用。
+
 # Tongji Verification Code Auto Fill-in
 ## WHAT
 This is a user script to be used in script managers like Tampermonkey, which helps you to automatically fill-in the verifiaciton code on Tongji University Login page.
